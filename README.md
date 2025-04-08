@@ -1,7 +1,7 @@
 
 # 🎯 Sentiment Analysis of IMDb Reviews using Naive Bayes
 
-This project performs sentiment classification on IMDb movie reviews using **Multinomial Naive Bayes**. It includes full preprocessing, vectorization (TF-IDF), training, evaluation, and explainability.
+In this project I have done sentiment classification on IMDb movie reviews using **Multinomial Naive Bayes**. It includes full preprocessing, vectorization (TF-IDF), training, evaluation, and explainability.
 
 ## 📂 Dataset
 - **Source**: `tensorflow_datasets.imdb_reviews`
