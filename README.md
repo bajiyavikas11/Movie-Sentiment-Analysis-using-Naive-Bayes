@@ -32,10 +32,16 @@ Accuracy: 0.88
     Negative       0.88      0.87      0.87     12500
     Positive       0.88      0.89      0.88     12500
 
+Accuracy: 0.8504
+              precision    recall  f1-score   support
+
+    Negative       0.85      0.85      0.85     12500
+    Positive       0.85      0.85      0.85     12500
+
 Confusion Matrix:
 
-[[10950  1550]
- [ 1350 11150]]
+[[10642  1858]
+ [ 1882 10618]]
 ```
 
 ## 📌 To Run in Colab
