@@ -27,11 +27,6 @@ In this project I have done sentiment classification on IMDb movie reviews using
 ## 📊 Sample Output
 
 ```
-Accuracy: 0.88
-              precision    recall  f1-score   support
-    Negative       0.88      0.87      0.87     12500
-    Positive       0.88      0.89      0.88     12500
-
 Accuracy: 0.8504
               precision    recall  f1-score   support
 
@@ -52,8 +47,8 @@ Confusion Matrix:
 
 ## 🧠 Top Words per Sentiment
 
-- **Positive**: great, love, best, excellent, highly
-- **Negative**: bad, boring, worst, terrible, waste
+- **Positive**: dont, really, would, good, even, bad, like, one, film, movie
+- **Negative**: time, well, see, story, like, good, great, one, movie, film
 
 ## 🏁 Future Work
 - Try Logistic Regression or SVM
